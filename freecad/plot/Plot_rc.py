@@ -3,11 +3,11 @@
 # Resource object code
 #
 # Created: mån juni 21 10:04:34 2021
-#      by: The Resource Compiler for PySide2 (Qt v5.15.2)
+#      by: The Resource Compiler for PySide (Qt v5.15.2)
 #
 # WARNING! All changes made in this file will be lost!
 
-from PySide2 import QtCore
+from PySide import QtCore
 
 qt_resource_data = b"\
 \x00\x00E\x92\
